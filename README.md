@@ -1,13 +1,12 @@
-<h1 align="left">Hey 👋 Hello There!</h1>
+<h1 align="left">👋 Hello There!</h1>
 
 ###
 
 <p align="left">Estudande e aprendendo! | Ciências da Computação CESAR School🎓</p>
-###
 
 ![GIF](./max-verstappen-f1.gif)
 
-<h2 align="left">Sobre mim: </h2>
+<h2 align="left">😶Sobre mim: </h2>
 
 ###
 
@@ -17,9 +16,9 @@ Venho aprendendo algumas linguagens de programação, como: Python, JavaScript, 
 
 ###
 
-<h2 align="left">Contatos: </h2>
+<h2 align="left">📢Contatos: </h2>
 
 ###
-💼LinkedIn: https://www.linkedin.com/in/ricardo-bayma-aa5a83411/?locale=en
-📧email: ricardoabayma@gmail.com
-📍Recife, Pernambuco.
+<p>💼LinkedIn: https://www.linkedin.com/in/ricardo-bayma-aa5a83411/?locale=en</p>
+<p>📧email: ricardoabayma@gmail.com</p>
+<p>📍Recife, Pernambuco.</p>
