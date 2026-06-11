@@ -4,7 +4,7 @@
 
 <p align="left">Estudande e aprendendo! | Ciências da Computação CESAR School🎓</p>
 
-![GIF](./max-verstappen-f1.gif)
+![GIF](./source.gif)
 
 <h2 align="left">😶Sobre mim: </h2>
 
